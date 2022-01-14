@@ -1,0 +1,369 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch RPN",
+            "request": "launch",
+            "mainClass": "RPN",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "Launch LineCruiser",
+            "request": "launch",
+            "mainClass": "LineCruiser",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "Launch JMCh20Exercises",
+            "request": "launch",
+            "mainClass": "JMCh20Exercises",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "Launch Teletext",
+            "request": "launch",
+            "mainClass": "Teletext",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "Launch JUTestSinglyLinkedList",
+            "request": "launch",
+            "mainClass": "JUTestSinglyLinkedList",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "Launch TestList",
+            "request": "launch",
+            "mainClass": "TestList",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "Launch MergeListTest",
+            "request": "launch",
+            "mainClass": "MergeListTest",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "Launch MergeListTest",
+            "request": "launch",
+            "mainClass": "MergeListTest",
+            "projectName": "AB27_1MergeList"
+        },
+        {
+            "type": "java",
+            "name": "Launch SortedListTest",
+            "request": "launch",
+            "mainClass": "SortedListTest",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "Launch KnightsTourRandom",
+            "request": "launch",
+            "mainClass": "KnightsTourRandom",
+            "projectName": "KnightCritterTour"
+        },
+        {
+            "type": "java",
+            "name": "Launch KnightsTour",
+            "request": "launch",
+            "mainClass": "KnightsTour",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "Launch DictionaryMaker",
+            "request": "launch",
+            "mainClass": "DictionaryMaker",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "Launch DictionaryMaker",
+            "request": "launch",
+            "mainClass": "DictionaryMaker",
+            "projectName": "APCS (4)"
+        },
+        {
+            "type": "java",
+            "name": "Launch EraseObject",
+            "request": "launch",
+            "mainClass": "EraseObject",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "Launch BlusterRunner",
+            "request": "launch",
+            "mainClass": "BlusterRunner",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch BackToSchool",
+            "request": "launch",
+            "mainClass": "BackToSchool",
+            "projectName": "A11_1BackToSchool"
+        },
+        {
+            "type": "java",
+            "name": "Launch Driver",
+            "request": "launch",
+            "mainClass": "Driver",
+            "projectName": "A15_1IrregularPolygon"
+        },
+        {
+            "type": "java",
+            "name": "Launch Statistics",
+            "request": "launch",
+            "mainClass": "Statistics",
+            "projectName": "A16_1Statistics"
+        },
+        {
+            "type": "java",
+            "name": "Launch MyMath",
+            "request": "launch",
+            "mainClass": "MyMath",
+            "projectName": "APCS (2)"
+        },
+        {
+            "type": "java",
+            "name": "Launch OldMacDonald",
+            "request": "launch",
+            "mainClass": "OldMacDonald",
+            "projectName": "APCS (3)"
+        },
+        {
+            "type": "java",
+            "name": "Launch CardTester",
+            "request": "launch",
+            "mainClass": "CardTester",
+            "projectName": "APCSElevensActivity1"
+        },
+        {
+            "type": "java",
+            "name": "Launch ParallelLines",
+            "request": "launch",
+            "mainClass": "ParallelLines",
+            "projectName": "APCS"
+        },
+        {
+            "type": "java",
+            "name": "Launch JUJumperTest",
+            "request": "launch",
+            "mainClass": "JUJumperTest",
+            "projectName": "GridWorldPart3Jumper"
+        },
+        {
+            "type": "java",
+            "name": "Launch JumperRunner",
+            "request": "launch",
+            "mainClass": "JumperRunner",
+            "projectName": "GridWorldPart3Jumper"
+        },
+        {
+            "type": "java",
+            "name": "Launch BoxBugRunner",
+            "request": "launch",
+            "mainClass": "BoxBugRunner",
+            "projectName": "GridWorld_JMCh3_7RandomBugs"
+        },
+        {
+            "type": "java",
+            "name": "Launch CircleBugRunner",
+            "request": "launch",
+            "mainClass": "CircleBugRunner",
+            "projectName": "GridWorld_JMCh3_7RandomBugs"
+        },
+        {
+            "type": "java",
+            "name": "Launch RandomBugRunner",
+            "request": "launch",
+            "mainClass": "RandomBugRunner",
+            "projectName": "GridWorld_JMCh3_7RandomBugs"
+        },
+        {
+            "type": "java",
+            "name": "Launch SpiralBugRunner",
+            "request": "launch",
+            "mainClass": "SpiralBugRunner",
+            "projectName": "GridWorld_JMCh3_7RandomBugs"
+        },
+        {
+            "type": "java",
+            "name": "Launch bugRunner",
+            "request": "launch",
+            "mainClass": "bugRunner",
+            "projectName": "GridWorld_firstProject"
+        },
+        {
+            "type": "java",
+            "name": "Launch Greetings2",
+            "request": "launch",
+            "mainClass": "Greetings2",
+            "projectName": "JMCh02_Hello"
+        },
+        {
+            "type": "java",
+            "name": "Launch HelloWorld",
+            "request": "launch",
+            "mainClass": "HelloWorld",
+            "projectName": "JMCh02_Hello"
+        },
+        {
+            "type": "java",
+            "name": "Launch BookTest",
+            "request": "launch",
+            "mainClass": "BookTest",
+            "projectName": "JMCh03Ex11_Book"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ornament",
+            "request": "launch",
+            "mainClass": "Ornament",
+            "projectName": "JMCh04Ex16_Ornament"
+        },
+        {
+            "type": "java",
+            "name": "Launch Poll",
+            "request": "launch",
+            "mainClass": "Poll",
+            "projectName": "JMCh06_10PieChart"
+        },
+        {
+            "type": "java",
+            "name": "Launch PollTest",
+            "request": "launch",
+            "mainClass": "PollTest",
+            "projectName": "JMCh06_10PieChart"
+        },
+        {
+            "type": "java",
+            "name": "Launch Craps",
+            "request": "launch",
+            "mainClass": "Craps",
+            "projectName": "JMCh07_RollingDice"
+        },
+        {
+            "type": "java",
+            "name": "Launch CrapsStats",
+            "request": "launch",
+            "mainClass": "CrapsStats",
+            "projectName": "JMCh07_RollingDice"
+        },
+        {
+            "type": "java",
+            "name": "Launch CrapsTest1",
+            "request": "launch",
+            "mainClass": "CrapsTest1",
+            "projectName": "JMCh07_RollingDice"
+        },
+        {
+            "type": "java",
+            "name": "Launch DieTest",
+            "request": "launch",
+            "mainClass": "DieTest",
+            "projectName": "JMCh07_RollingDice"
+        },
+        {
+            "type": "java",
+            "name": "Launch ComplexJUTest",
+            "request": "launch",
+            "mainClass": "ComplexJUTest",
+            "projectName": "JMCh09Ex17_Complex"
+        },
+        {
+            "type": "java",
+            "name": "Launch TestComplex",
+            "request": "launch",
+            "mainClass": "TestComplex",
+            "projectName": "JMCh09Ex17_Complex"
+        },
+        {
+            "type": "java",
+            "name": "Launch JUTestVendor",
+            "request": "launch",
+            "mainClass": "JUTestVendor",
+            "projectName": "JMCh09_SnackBar"
+        },
+        {
+            "type": "java",
+            "name": "Launch SnackBar",
+            "request": "launch",
+            "mainClass": "SnackBar",
+            "projectName": "JMCh09_SnackBar"
+        },
+        {
+            "type": "java",
+            "name": "Launch JMCh10Exercises",
+            "request": "launch",
+            "mainClass": "JMCh10Exercises",
+            "projectName": "JMCh10_Exercises"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lipogrammer",
+            "request": "launch",
+            "mainClass": "Lipogrammer",
+            "projectName": "JMCh10_Lipogrammer"
+        },
+        {
+            "type": "java",
+            "name": "Launch Piglatinator",
+            "request": "launch",
+            "mainClass": "Piglatinator",
+            "projectName": "JMCh10_PigLatinator"
+        },
+        {
+            "type": "java",
+            "name": "Launch Chomp",
+            "request": "launch",
+            "mainClass": "Chomp",
+            "projectName": "JMCh12_11Chomp"
+        },
+        {
+            "type": "java",
+            "name": "Launch Easter",
+            "request": "launch",
+            "mainClass": "Easter",
+            "projectName": "LA3_1Easter"
+        },
+        {
+            "type": "java",
+            "name": "Launch Coins",
+            "request": "launch",
+            "mainClass": "Coins",
+            "projectName": "LA3_2Coins"
+        },
+        {
+            "type": "java",
+            "name": "Launch IndexMaker",
+            "request": "launch",
+            "mainClass": "IndexMaker"
+        },
+        {
+            "type": "java",
+            "name": "Launch JMCh12Exercises",
+            "request": "launch",
+            "mainClass": "JMCh12Exercises"
+        }
+    ]
+}
